@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to my Github page!
 
 Hello 👋! My name is Wyatt! I am a junior web developer and college student working to build up my portfolio!
 
