@@ -4,4 +4,4 @@ Hello 👋! My name is Wyatt! I am a junior full stack web developer and college
 
 - 🌐 <a href="https://www.awhaston.dev" target="_blank">My Website</a>
 - 🚧 I'm currently working on : School Assignment Tracker StudyOtter
-- 🧑‍💻 Technologies I'm working with: Nextjs and Planetscale
+- 🧑‍💻 Current Tech Stack: Nextjs, PostgreSQL, and AWS
