@@ -1,7 +1,16 @@
-# Welcome to my Github page!
+Hello 👋! My name is Wyatt! I am a junior full stack web developer and college student working to build up my portfolio while pursuing my bachelor's degree
 
-Hello 👋! My name is Wyatt! I am a junior full stack web developer and college student working to build up my portfolio!
+🎓 Currently enrolled as a Bachelor of Information Technology at Kennesaw State University
 
-- 🌐 <a href="https://www.awhaston.dev" target="_blank">My Website</a>
-- 🚧 I'm currently working on : School Assignment Tracker StudyOtter
-- 🧑‍💻 Current Tech Stack: Nextjs, PostgreSQL, and AWS
+🔧 Employed as a Dev-ops Intern
+
+🌐 <a href="https://www.awhaston.dev" target="_blank">My Website</a>
+
+🚧 Active Project: School Assignment Tracker StudyOtter
+
+🚀 Current Tech Stack:
+- Typescript
+- Next.js
+- PostgreSQL
+- AWS
+- VSCode
