@@ -10,6 +10,7 @@ Hello 👋! My name is Wyatt 🧑‍💻! I am a junior full stack web developer
 
 🚀 Current Tech Stack:
 - Typescript
+- React
 - Next.js
 - PostgreSQL
 - AWS
