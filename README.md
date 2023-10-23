@@ -13,5 +13,5 @@ Hello 👋! My name is Wyatt 🧑‍💻! I am a junior full stack web developer
 - React
 - Next.js
 - PostgreSQL
-- AWS
+- Railway.app
 - VSCode
