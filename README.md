@@ -1,6 +1,6 @@
 Hello 👋! My name is Wyatt 🧑‍💻! I am a junior full stack web developer and college student working to build up my portfolio while pursuing my bachelor's degree
 
-🎓 Currently enrolled as a Bachelor of Information Technology at Kennesaw State University
+🎓 Recent Graduate of a Bachelor of Information Technology at Kennesaw State University
 
 🔧 Employed as a Dev-ops Intern
 
@@ -11,7 +11,7 @@ Hello 👋! My name is Wyatt 🧑‍💻! I am a junior full stack web developer
 🚀 Current Tech Stack:
 - Typescript
 - React
-- Next.js
+- Go Lang
 - PostgreSQL
 - Railway.app
 - VSCode
