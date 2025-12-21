@@ -1,4 +1,6 @@
-My name is Wyatt! I am a full time embedded software engineer that also enjoys building web apps.
+My name is Wyatt! I am a full time embedded software engineer and systems engieneer that also enjoys building web apps.
+
+Recently I have been exploring Linux drivers and kernel development.
 
 🎓 Bachelor of Information Technology at Kennesaw State University
 
@@ -6,9 +8,9 @@ My name is Wyatt! I am a full time embedded software engineer that also enjoys b
 
 🚀 Current Tech Stack:
 - C
-- Neovim
+- Go Lang
 - PHP
 - Typescript
-- Svelte
-- Go Lang
 - PostgreSQL
+
+
